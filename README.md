@@ -258,30 +258,4 @@ Go to `/src/index.html` and put your information, there are 5 sections:
   <!-- /END Project -->
   ...
 </section>
-```
-
-### (4) Contact Section
-
-- On `<p>` tag with class name `.contact-wrapper__text`, include some custom call-to-action message.
-- On `<a>` tag, put your email address on `href` property.
-
-```html
-<!-- **** Contact Section **** -->
-<section id="contact">
-  <div class="container">
-    <h2 class="section-title">Contact</h2>
-    <div class="contact-wrapper load-hidden">
-      <p class="contact-wrapper__text">[Put your call to action here]</p>
-      <a
-        rel="noreferrer"
-        target="_blank"
-        class="cta-btn cta-btn--resume"
-        href="mailto:example@email.com"
-        >Call to Action</a
-      >
-    </div>
-  </div>
-</section>
-<!-- /END Contact Section -->
-```
 
