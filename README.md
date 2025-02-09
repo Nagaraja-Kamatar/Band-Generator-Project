@@ -15,3 +15,12 @@ Make sure you have the following installed on your system:
    ```sh
    git clone https://github.com/Nagaraja-Kamatar/Band-Generator.git
    cd your-repo
+2.**Install Dependencies
+  ```
+  npm install
+
+3.Start the Server
+ npm start
+4.Verify the Setup
+Open your browser and go to:
+ http://localhost:3000
